@@ -50,6 +50,6 @@
             "entity": "Playlist"
         }
     ],
-    "manifest": "",
-    "download": ""
+    "manifest": "https://raw.githubusercontent.com/njakuu/kompendiumwampir5e/master/module.json",
+    "download": "https://github.com/Njakuu/kompendiumwampir5e/archive/refs/tags/main.zip"
   }
