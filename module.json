@@ -2,10 +2,10 @@
     "name": "kompendiumwampir5e",
     "title": "Kompendium Wampir 5e",
     "description": "Kompendium do systemu Wamir Maskarada 5 edycja.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Njuu",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "0.8.9",
+    "compatibleCoreVersion": "0.9.0",
     "packs": [
         {
             "name": "dyscypliny",
